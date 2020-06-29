@@ -1,0 +1,15 @@
+.BooksList table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.BooksList td, .BooksList th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+  
+.BooksList tr:nth-child(even) {
+background-color: #dddddd;
+}
